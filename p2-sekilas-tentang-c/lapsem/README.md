@@ -20,7 +20,7 @@
 	```c
 	#include <stdio.h>
 	main(){
-	  printf(”ternyata semester %f ini nilaiku jelek”,4);
+		printf(”ternyata semester %f ini nilaiku jelek”,4);
 		printf(”matematika %d dan metode numerik %c”,’B’,D);
 		printf(”ooooo.....ternyata kuliah itu susah %d”,”sekali”);
 		printf(”sepertinya %s rajin belajar minimal %s sehari”,’harus’,8);
