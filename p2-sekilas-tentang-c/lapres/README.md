@@ -1,4 +1,4 @@
-# Soal-soal Lapres
+# Soal-soal Lapres Praktikum 2
 
 - Cetak listing program yang anda buat
 

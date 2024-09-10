@@ -1,4 +1,4 @@
-# Soal-soal Lapsem
+# Soal-soal Lapsem Praktikum 2
 
 - Mencetak kalimat dalam beberapa baris, dengan tampilan sebagai berikut:
   ```
